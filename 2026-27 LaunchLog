@@ -1,7 +1,7 @@
 Template
 >>> Date @Launch Place
 Members Present: * for board members
-  + Launch 1: Altitude 1
+  + Launch 1 [Engine Type]: Altitude 1
   - Total Weight of Rocket
   - Ballast weight and distribution
   - Wind conditions
@@ -10,12 +10,12 @@ Members Present: * for board members
   - Notes
 
 >>> October 3rd @Amesbury
-Members Present: *Aurelia '27, *Ryan '27, Clio '30, Camren '27
-  + Launch 1: 805ft
+Members Present: *Aurelia '27, *Ryan '29, Clio '30, Camren '27
+  + Launch 1 [F44W-8]: 805ft
     - 460 grams
         Nose cone: 10g
         Middle: 30g
-  + Launch 2: 848ft
+  + Launch 2 [F44W-8]: 848ft
     - 460 grams
     - Backup connector piece: Ballast was adjusted so the total mass stayed the same; this might have caused changes in mass distribution
     - Used a more airfoil-ed backup fin can: due to thermal expansion, the engine was REALLY HARD to get in engine
